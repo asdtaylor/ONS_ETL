@@ -1,0 +1,7 @@
+# ignore all .csv files
+*.csv
+
+
+#ignore specific python files not relevant to project
+Open_CSV_in_folder_change_first_row.py
+Get_All_ONS_datasets_as_CSV.py
